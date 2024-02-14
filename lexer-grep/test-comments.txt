@@ -1,0 +1,3 @@
+//testcomments
+
+/* test multi comments */

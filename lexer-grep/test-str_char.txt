@@ -1,0 +1,3 @@
+string = L"ABC" L"DEF"
+
+char = u8'a' '*'

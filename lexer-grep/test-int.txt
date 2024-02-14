@@ -1,0 +1,6 @@
+dec = 1'2'3'4'4ll
+dec = 1'2'3''4
+
+oct = 072ul
+
+hex = 0xFF12AL
